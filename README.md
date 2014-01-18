@@ -1,4 +1,4 @@
 javaMailDM
 ==========
 
-javaMailDM
+javaMailDEMO
